@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "562863816662",
+    "firebase_url": "https://sign-in-auth-a5338.firebaseio.com",
+    "project_id": "sign-in-auth-a5338",
+    "storage_bucket": "sign-in-auth-a5338.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562863816662:android:8b4a6961d3f903873aae77",
+        "android_client_info": {
+          "package_name": "com.fansa.task3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562863816662-7jk7nkiaaf04tm71a8u865b6mfo5fj9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtpq_0p62CTZvIltxDwvRcBY5CF9lfCmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562863816662-7jk7nkiaaf04tm71a8u865b6mfo5fj9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
